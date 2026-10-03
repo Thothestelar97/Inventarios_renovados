@@ -1,5 +1,7 @@
 import mariadb
 
+print("Conectado correctamente a MariaDB")
+
 def conectar():
     """
     Establece conexión con la base de datos MariaDB.
